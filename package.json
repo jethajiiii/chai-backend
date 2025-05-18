@@ -1,0 +1,16 @@
+{
+  "name": "chai-or-backendd",
+  "version": "1.0.0",
+  "description": "chai or code yt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Mukul Bhardwaj",
+  "license": "ISC"
+}
